@@ -40,16 +40,16 @@ facebook-carousel: Carrousel Facebook (1080 x 1080 pixels)
 Attention certaines vidéo ont le même format, donc ne pas dupliquer, juste changer url pour pour upload facebook pour facebook, you tube pour you tube....ect
 
 # Format de langue
-fr 1er test
-de
-es
-it
-en-US
-pt
-ne
-da
-fi
-no
+* fr 1er test
+* de
+* es
+* it
+* en-US
+* pt
+* ne
+* da
+* fi
+* no
 
 # 1er test Louis Vuitton Classic
 - Vidéo you tube par vidéo Puppet https://youtu.be/D0D_1oJ18G4 de https://made-in-auto.com/
