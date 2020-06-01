@@ -1,5 +1,6 @@
 # videopuppet
 test vidéo puppet 1
+Auteurs : 
 
 Idée grâce API Puppet générer les vidéos dans un format pour chacune des plates formes
 
