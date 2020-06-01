@@ -1,7 +1,8 @@
 # videopuppet
 test vidéo puppet 1
 
-Auteurs videopuppet : https://github.com/videopuppet/build-video-github-action
+Auteur videopuppet : https://github.com/videopuppet/build-video-github-action
+Sur gitHub https://github.com/videopuppet
 
 Idée grâce API Puppet générer les vidéos dans un format pour chacune des plates formes
 
