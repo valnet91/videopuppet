@@ -57,3 +57,6 @@ Attention certaines vidéo ont le même format, donc ne pas dupliquer, juste cha
 - Vidéo you tube par vidéo Puppet https://youtu.be/D0D_1oJ18G4 de https://made-in-auto.com/
 fr 1er test (pptx) (lang fr) (jean niveau 0) ok
 [First vidéo Puppet Louis Vuitton](https://youtu.be/D0D_1oJ18G4 "Voitures anciennes")
+
+# Mail Auteur
+Ok le dimanche 30 mai
